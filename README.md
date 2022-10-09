@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Autumn Bertram, a Computer Science student.
-- 👀 I’m interested in mobile app dev and web dev, and I am seeking a software development internship, in any area really. I'm open to learning. :)
+- 👋 Hi, I’m Autumn, a Computer Science student.
+- 👀 I’m interested in pursuing a career in software development, and I am open to internships.
 - 🌱 I’m currently learning Swift and HTML.
 - 🖥 My technical skills include Java, Python, Linux command line, and Tableau.
 - 📫 How to reach me: abertram2021@gmail.com or reach out on LinkedIn at www.linkedin.com/in/autumn-bertram!
