@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Autumn, a Computer Science student.
 - 👀 I’m interested in pursuing a career in software development, and I am open to collaborating on development projects.
 - 🌱 I’m currently learning Swift and HTML.
-- 🖥 My technical skills include Java, Python, Linux command line, and Bash scripting.
+- 🖥 My technical skills include Java, Python, Linux, and Bash scripting.
 - 📫 How to reach me: abertram2021@gmail.com or reach out on LinkedIn at www.linkedin.com/in/autumn-bertram!
 
 <!---
